@@ -1,4 +1,4 @@
-![alt text](https://github.com/moengiant/Good-Judgement-Project-COVID-19/tree/master/logos/iarpa.png?raw=true)
+![alt text](https://github.com/moengiant/Good-Judgement-Project-COVID-19/blob/master/logos/iarpa.png?raw=true)
 # Good-Judgement-Project-COVID-19
 This repo is a collection of python scripts that will graph John Hopkins COVID-19 data pulled from John Hopkins Github page. 
 These were used in a project I participated in called Good Judgement 2.0. It is a project being run by the Intelligence Advanced Research Projects Activity (IARPA)
