@@ -5,7 +5,7 @@ These were used in a project I participated in called Good Judgement 2.0. It is 
 which is an angency within the Office of the Director of National Intelligence.
 
 This project was focused on the approaches used by adhoc forecastings teams and crowd sourced information in delivering highly accurate forecasts.
-The forcasts involved predicting the cases and deaths both international at the country level and domestically at the state level at future point in time. 
+The forcasts involved predicting the cases and deaths both international at the country level and domestically at the state level at future points in time. 
 
 ![alt text](https://github.com/moengiant/Good-Judgement-Project-COVID-19/blob/master/Graphs/USCases.png)
 
